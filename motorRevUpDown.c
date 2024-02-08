@@ -1,6 +1,7 @@
 /*
  * File: motorRevUpDown
  * Revving up the motor to full speed and back down again in endless loop
+ * My program to build on information presented in books
  * Author: Ellery Cadel
  * 
  *
