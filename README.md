@@ -7,3 +7,4 @@ To save you the tedium of copying programs from the book
 3) TMR0 delay loops have been changed to standard delay subroutine in most cases
 4) motorRevUpDown.c is my own file created to use some of the concepts included in the books and elsewhere
 5) Interrupt programs updated to use latest xc-8 interrupt function
+6) Most programs have been copied but if I skipped a section I did not spend the time copying the program
