@@ -2,3 +2,4 @@
 p. 183 "Line 15 ADCON1 = 0x01" change to "Line 15 ADCON0 = 0x01"
 p. 207 - program line missing (line 141.5) "pink = 0". Added to program uploaded
 p. 222 - under Line 42 description, 1st paragraph: 1ms (millisecond) should be 1us (microsecond)
+p. 267 - Line 37 is for RB5 not RB4
