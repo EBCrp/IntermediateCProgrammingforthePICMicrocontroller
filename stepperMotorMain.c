@@ -1,6 +1,12 @@
 /*
  * File:   stepperMotorMain.c
  * Description: Basic Program for the Stepper Motor
+ * Comments: 
+ * MCLR connection - included 10K resistor from pin to 5V bar.
+ * Needed to change stepper wires to match connections not colors shown in book
+ * e.g. pink wire in position #1 (not blue) therefore pink became lead wire
+ * similar issue for yellow and orange wires
+ *
  * Author: Ellery Cadel
  * Copied from book by H.H. Ward 
  * Configuration: PIC18F4525
@@ -8,7 +14,7 @@
  * WDT set to OFF
  * LVP set to OFF
  *
- * Created on February 9, 2024
+ * Updated: January 30, 2025
  */
 
 #include <conFigInternalOscNoWDTNoLVP.h>
